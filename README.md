@@ -8,6 +8,7 @@ https://link.springer.com/article/10.1007/s11403-017-0200-9
 
 The program for the uniform distribution can be found in c_parallel, and the program for the real economy initial distribution can be found in nonuniform.
 
+There is another portion of the code, written by Kalyan Perumalla, which has been omitted here. Kalyan's program simulates an approximate model in CUDA.
 
 ## Usage
 
