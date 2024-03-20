@@ -6,7 +6,7 @@ The code was used to simulate an agent-based model of the wealth distribution wi
 
 https://link.springer.com/article/10.1007/s11403-017-0200-9
 
-The program for the uniform distribution can be found in c_parallel, and the program for the real economy initial distribution can be found in nonuniform.
+The program for the uniform distribution can be found in ```c_parallel```, and the program for the real economy initial distribution can be found in ```nonuniform```. In addition, an optimized model was constructed using a dynamic programming approach, which can be found in ```c_new_fast``` -- this model is for the uniform distribution initialization.
 
 There is another portion of the code, written by Kalyan Perumalla, which has been omitted here. Kalyan's program simulates an approximate model in CUDA.
 
