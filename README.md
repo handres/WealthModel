@@ -1,5 +1,14 @@
 # WealthModel
 
+This is a code archive of a simulation program built by Hunter Vallejos in the Summer of 2016 at Oak Ridge National Laboratory, while a HERE intern. Hunter was supervised by James Nutaro.
+
+The code was used to simulate an agent-based model of the wealth distribution with two initializations (1) a uniform distribution of wealth and (2) a distribution of wealth similar to that of a real economy. The results were published in the following article:
+
+https://link.springer.com/article/10.1007/s11403-017-0200-9
+
+The program for the uniform distribution can be found in c_parallel, and the program for the real economy initial distribution can be found in nonuniform.
+
+
 ## Usage
 
 ### nonuniform:
